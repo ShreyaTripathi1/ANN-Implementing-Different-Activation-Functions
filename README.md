@@ -4,6 +4,9 @@ Artificial Neural Networks (ANNs) are computational models inspired by biologica
 
 </br>
 
+![image](https://github.com/user-attachments/assets/ea53854e-6e96-4635-b2cb-964bde12f6de)
+
+
 ## ANNs have the following key components:
 
   **Input Layer:** Takes input features.
