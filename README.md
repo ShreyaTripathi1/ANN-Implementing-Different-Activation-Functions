@@ -1,4 +1,4 @@
-# ANN
+# ANN - Implementing Different Activation Functions
 
 Artificial Neural Networks (ANNs) are computational models inspired by biological neural networks. They consist of layers of artificial neurons (nodes) connected by weights, where information flows through these layers, getting processed and transformed by activation functions.
 
